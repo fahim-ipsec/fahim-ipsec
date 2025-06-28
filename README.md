@@ -13,18 +13,14 @@ Though I consider myself a lifelong student (always learning from the world arou
 
 
 <h2>Certifications & Skills</h2>
-<pre><h2>Cybersecuity</h2> 
+<pre><h2>Cybersecurity</h2> 
               
 </pre>
 
-<pre><h2>Cybersecuity</h2> 
+<pre><h2>Cloud</h2> 
   
 </pre>
 
-<pre><h2>Cybersecuity</h2> 
-  
-</pre>
-
-<pre><h2>Cybersecuity</h2> 
+<pre><h2>IT & Networking</h2> 
   
 </pre>
