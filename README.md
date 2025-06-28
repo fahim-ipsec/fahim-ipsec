@@ -13,11 +13,8 @@ Though I consider myself a lifelong student (always learning from the world arou
 
 
 <h2>Certifications & Skills</h2>
-
-### CyberSecurity
-
 <pre>
-       <h2>cybersecuity </h2> 
+       <h2>Cybersecuity </h2> 
               hello
                   hello  
                         hello
