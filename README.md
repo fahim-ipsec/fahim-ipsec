@@ -25,3 +25,10 @@ Though I consider myself a lifelong student (always learning from the world arou
 <pre><h2>IT & Networking</h2> 
   
 </pre>
+
+<h2>Projects</h2>
+<h2>Experience</h2>
+<h2>Educations</h2>
+<h2>Achievements</h2>
+<h2>Stats</h2>
+<h2>Other Links</h2>
