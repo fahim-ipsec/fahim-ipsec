@@ -13,9 +13,6 @@ Though I consider myself a lifelong student (always learning from the world arou
 
 
 <h2>Certifications & Skills</h2>
-<pre>
-       <h2>Cybersecuity </h2> 
-              hello
-                  <b>hello</b>hello  
-                        hello
+<pre>  <h2>Cybersecuity </h2> 
+              
 </pre>
