@@ -16,7 +16,4 @@ Though I consider myself a lifelong student (always learning from the world arou
 
 ### CyberSecurity
 
-<pre>    hello
-          <ul>
-                <li>hello</li>
-                </ul></pre>
+<pre>    hello <ul> <li>hello</li> </ul></pre>
