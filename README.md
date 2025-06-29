@@ -13,7 +13,7 @@ I am a Cybersecurity Enthusiast and Physical Security Operations Monitoring expe
 Though I consider myself a lifelong student (always learning from the world around me), I stand firmly by two principles: honesty is my core value, and helping others is in my DNA.
 
 
-<h2>Certifications & Skills</h2>
+<h1>Certifications & Skills</h1>
 <pre><h3>Cybersecurity</h3> 
               --networking
   --               hello
