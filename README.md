@@ -14,25 +14,25 @@ Though I consider myself a lifelong student (always learning from the world arou
 
 
 <h1>Certifications & Skills</h1>
-<pre><h3>Cybersecurity</h3> 
+<pre><h2>Cybersecurity</h2> 
               --networking
   --               hello
 </pre>
 
-<pre><h3>Cloud</h3> 
+<pre><h2>Cloud</h2> 
   
 </pre>
 
-<pre><h3>IT & Networking</h3> 
+<pre><h2>IT & Networking</h2> 
   
 </pre>
 
-<h2>Projects</h2>
-<h2>Experience</h2>
-<h2>Educations</h2>
-<h2>Achievements</h2>
-<h2>Stats</h2>
-<h2>Other Links</h2>
+<h1>Projects</h1>
+<h1>Experience</h1>
+<h1>Educations</h1>
+<h1>Achievements</h1>
+<h1>Stats</h1>
+<h1>Other Links</h1>
 <div align="left">
   <a href="https://medium.com/@omarfahim" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
