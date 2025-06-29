@@ -33,8 +33,6 @@ Though I consider myself a lifelong student (always learning from the world arou
 <h2>Stats</h2>
 <h2>Other Links</h2>
 <div align="left">
- =Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="patreon logo"  />
-  </a>
   <a href="https://medium.com/@aw-junaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
   </a>
