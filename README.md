@@ -37,10 +37,8 @@ Though I consider myself a lifelong student (always learning from the world arou
 
 <h1>Projects</h1>
 ## Blog Posts
-- [Mastering Log Analysis](https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507/)
-[![Medium](https://img.shields.io/badge/📖_Mastering_Log_Analysis-Read_on_Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507)
-### Blog Posts
-- [Mastering Log Analysis](https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507)
+<a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a>
+
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
