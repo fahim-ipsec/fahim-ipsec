@@ -39,7 +39,11 @@ Though I consider myself a lifelong student (always learning from the world arou
 <h3>Blog Posts</h3>
 -- <a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a><br>
 
-
+<div align="center">
+  <a href="https://tryhackme.com/p/Om4rF4him">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1714622" alt="TryHackMe Badge">
+  </a>
+</div>
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
