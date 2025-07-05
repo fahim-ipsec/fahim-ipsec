@@ -36,8 +36,9 @@ Though I consider myself a lifelong student (always learning from the world arou
 </pre>
 
 <h1>Projects</h1>
-<h2>Blog</h2>
+## Blog Posts
 - [Mastering Log Analysis](https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507)
+###
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
