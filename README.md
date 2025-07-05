@@ -36,8 +36,8 @@ Though I consider myself a lifelong student (always learning from the world arou
 </pre>
 
 <h1>Projects</h1>
-<b>Blog</b>
-<a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a>
+<h3>Blog Posts</h3>
+-- <a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a>
 
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
