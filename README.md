@@ -38,15 +38,23 @@ Though I consider myself a lifelong student (always learning from the world arou
 <h1>Projects</h1>
 <h3>Blog Posts</h3>
 -- <a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a><br>
-
-<div align="center">
-  <a href="https://tryhackme.com/p/Om4rF4him" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/M.OFF.png" 
-         alt="TryHackMe Offensive Security Badge" 
-         style="height:180px; border:none;">
-  </a>
-</div>
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
+## 🛡️ Cybersecurity Badges
 
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+  
+  <!-- TryHackMe Badge -->
+  <a href="https://tryhackme.com/p/Om4rF4him" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/M.OFF.png" 
+         alt="TryHackMe Offensive Security Badge" 
+         style="height: 160px; border: none;"/>
+  </a>
+
+  <!-- Empty space for future badges -->
+  <div>
+    <!-- Add your next badge/image here -->
+    <!-- Example: <img src="LINK-TO-NEXT-BADGE" style="height: 160px;"/> -->
+  </div>
+</div>
