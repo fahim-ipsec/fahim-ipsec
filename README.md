@@ -41,11 +41,8 @@ Though I consider myself a lifelong student (always learning from the world arou
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
-## 🛡️ Cybersecurity Badges
-
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   
-  <!-- TryHackMe Badge -->
   <a href="https://tryhackme.com/p/Om4rF4him" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/M.OFF.png" 
          alt="TryHackMe Offensive Security Badge" 
