@@ -36,8 +36,8 @@ Though I consider myself a lifelong student (always learning from the world arou
 </pre>
 
 <h1>Projects</h1>
-<h1>Experience</h1>
-<h1>Educations</h1>
+---<h2>Blog</h2>
+<h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
 
