@@ -40,8 +40,10 @@ Though I consider myself a lifelong student (always learning from the world arou
 -- <a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a><br>
 
 <div align="center">
-  <a href="https://tryhackme.com/p/Om4rF4him">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1714622" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/Om4rF4him" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/M.OFF.png" 
+         alt="TryHackMe Offensive Security Badge" 
+         style="height:180px; border:none;">
   </a>
 </div>
 <h1>Education & Experience</h1>
