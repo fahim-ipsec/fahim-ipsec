@@ -17,7 +17,7 @@ Though I consider myself a lifelong student (always learning from the world arou
   </a>
     <a href="https://dev.to/fahimomar" target="_blank">  </a>
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" height="27" alt="dev.to logo" />
-    <a href="https://www.linkedin.com/in/muhammad-omar-fahim-bd?" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammad-omar-fahim-bd?" target="_blank"></a>
 </div>
 
 
