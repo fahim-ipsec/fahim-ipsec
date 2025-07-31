@@ -52,6 +52,7 @@ Though I consider myself a lifelong student (always learning from the world arou
          alt="TryHackMe Offensive Security Badge" 
          style="height: 160px; border: none;"/>
   </a>
+  
 
   <!-- Empty space for future badges -->
   <div>
