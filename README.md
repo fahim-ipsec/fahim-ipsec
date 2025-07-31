@@ -21,6 +21,9 @@ Though I consider myself a lifelong student (always learning from the world arou
     <a href="https://www.linkedin.com/in/muhammad-omar-fahim-bd?" target="_blank">
      <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="27" alt="LinkedIn Logo" />
     </a>
+    <a href="www.credential.net/profile/muhammadomarfarhadfahim489292/">
+    <img src="https://www.credential.net/images/credential_net_logo.png" alt="Credential.net" width="150">
+    </a>
     
 </div>
 
