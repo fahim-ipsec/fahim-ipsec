@@ -52,7 +52,7 @@ Though I consider myself a lifelong student (always learning from the world arou
          alt="TryHackMe Offensive Security Badge" 
          style="height: 160px; border: none;"/>
   </a>
-  
+  https://tryhackme-badges.s3.amazonaws.com/M.OFF.png
 
   <!-- Empty space for future badges -->
   <div>
