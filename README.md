@@ -48,7 +48,7 @@ Though I consider myself a lifelong student (always learning from the world arou
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   
   <a href="https://tryhackme.com/p/M.OFF" target="_blank">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1714622" alt="TryHackMe Offensive Security Badge" style="height: 160px; border: none;"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/M.OFF.png" alt="TryHackMe Offensive Security Badge" style="height: 160px; border: none;"/>
   </a>
 
   <!-- Empty space for future badges -->
