@@ -22,7 +22,7 @@ Though I consider myself a lifelong student (always learning from the world arou
      <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="27" alt="LinkedIn Logo" />
     </a>
     <a href="www.credential.net/profile/muhammadomarfarhadfahim489292/">
-    <img src="https://www.credential.net/images/credential_net_logo.png" alt="Credential.net" height="27" />
+    <img src="https://img.shields.io/badge/Credential.net-View_My_Certs-blue?logo=generic" alt="Credential.net" height="27" />
     </a>
     
 </div>
