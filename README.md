@@ -47,6 +47,8 @@ Though I consider myself a lifelong student (always learning from the world arou
 -- <a href="https://github.com/fahim-ipsec/Collecting_Plasma_Donor" target="_blank">PLASMA DONATION MANAGEMENT SYSTEM (PDMS)</a>
 <h3>Blog Posts</h3>
 -- <a href="https://medium.com/@omarfahim/mastering-log-analysis-9eb2a3c0a507" target="_blank">Mastering Log Analysis</a><br>
+<h3>Blog Posts</h3>
+-- <a href="https://medium.com/@omarfahim/beyond-the-pros-how-to-use-yara-for-personal-cybersecurity-on-your-pc-ba0066a9efcd" target="_blank">Beyond the Pros: How to Use Yara for Personal Cybersecurity on Your PC</a><br>
 <h1>Education & Experience</h1>
 <h1>Achievements</h1>
 <h1>Stats</h1>
