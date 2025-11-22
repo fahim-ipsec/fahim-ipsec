@@ -57,7 +57,7 @@ Though I consider myself a lifelong student (always learning from the world arou
    <img src="https://tryhackme-badges.s3.amazonaws.com/M.OFF.png" alt="TryHackMe" />
   </a>
   <a href="https://app.hackthebox.com/profile/1474439" target="_blank">
-    <img src="" alt="TryHackMe">
+    <img src="" alt="Hackthebox">
   </a>
 
   <!-- Empty space for future badges -->
