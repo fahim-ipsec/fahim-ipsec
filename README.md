@@ -60,6 +60,9 @@ Though I consider myself a lifelong student (always learning from the world arou
   <a href="https://app.hackthebox.com/profile/1474439" target="_blank">
     <img src="HackTheBox.jpg" alt="Hackthebox">
   </a>
+    <a href="https://cyberdefenders.org/p/_omarfahim" target="_blank">
+   <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/_omarfahim.png" width="300" />
+  </a>
 
   <!-- Empty space for future badges -->
   <div>
