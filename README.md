@@ -8,9 +8,11 @@
 
 ### Summary
 
-I am a Cybersecurity Enthusiast. My passion lies in researching both cyber and physical security to understand evolving threats. I believe in raising awareness to prevent incidents—whether digital or physical. 
+I am a Cybersecurity Enthusiast and lifelong student dedicated to researching both digital and physical security. My mission is to bridge the gap between complex threats and proactive awareness, ensuring a safer world for everyone. Whether I am diving into Digital Forensics, Cloud Security, or Software Automation, I believe in a hands-on approach to mastering the tools of the trade, from Kali Linux to Wireshark.
 
-Though I consider myself a lifelong student (always learning from the world around me), I stand firmly by two principles: honesty is my core value, and helping others is in my DNA.
+Beyond the technical skills, I am guided by two firm principles: honesty as my core value and a DNA-level commitment to helping others. My goal is to grow into a Cybercrime Analyst role where I can combine analytical rigor with ethical dedication. I am always open to collaborating with fellow enthusiasts who believe in continuous learning and building a secure digital ecosystem.
+
+#CyberSecurity #DigitalForensics #CyberInvestigation #SoftwareAutomation #CloudSecurity #NetworkSecurity #ContinuousLearner #InformationSecurity
 <div align="left">
   <a href="https://medium.com/@omarfahim" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
