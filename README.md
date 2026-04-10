@@ -23,7 +23,7 @@ Beyond the technical skills, I am guided by two firm principles: honesty as my c
     <a href="https://www.linkedin.com/in/muhammad-omar-fahim-bd?" target="_blank">
      <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="27" alt="LinkedIn Logo" />
     </a>
-    <a href="https://www.credential.net/profile/muhammadomarfarhadfahim489292/wallet">
+    <a href="https://www.credential.net/profile/muhammadomarfarhadfahim489292/wallet" target="_blank">
     <img src="https://www.credential.net/assets/themes/credential.net/images/accredible_credential_net_logo.svg" alt="Credential.net" height="27" />
     </a>
     
