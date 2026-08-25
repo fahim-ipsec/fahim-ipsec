@@ -41,9 +41,9 @@ Beyond the technical skills, I am guided by two firm principles: honesty as my c
 
 ## 🛠️ Tech Stack & Security Tools
 
-[Security & Blue Team]    Splunk · Elastic SIEM · Wireshark · Sysmon · Snort
-[Pentesting & Red Team]   Nmap · Burp Suite · Metasploit · Kali Linux · YARA
-[Scripting & Dev]         Python · Bash · Git · HTML5 / CSS3 · JavaScript
+| **Security & Blue Team** | `Splunk` `Elastic SIEM` `Wireshark` `Sysmon` `Snort` |
+| **Pentesting & Red Team** | `Nmap` `Burp Suite` `Metasploit` `Kali Linux` `YARA` |
+| **Scripting & Dev** | `Python` `Bash` `Git` `HTML5` `CSS3` `JavaScript` |
 
 ## 📊 GitHub Stats
 
