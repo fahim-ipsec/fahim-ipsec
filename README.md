@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Cover Banner -->
-  <img src="https://github.com/fahim-ipsec/fahim-ipsec/blob/main/coverp.jpg" width="50px" alt="fahim-ipsec cover" style="border-radius: 5px;" />
+  <img src="https://github.com/fahim-ipsec/fahim-ipsec/blob/main/coverp.jpg?raw=true" width="100%" alt="fahim-ipsec cover" style="border-radius: 10px;" />
+  
   
   <br><br>
 
@@ -12,6 +13,9 @@
 
   <!-- Social & Profile Badges -->
   <p>
+    <a href="https://github.com/fahim-ipsec" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
     <a href="https://www.linkedin.com/in/muhammad-omar-fahim-bd?" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
