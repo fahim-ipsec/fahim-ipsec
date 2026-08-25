@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cover Banner -->
-  <img src="https://github.com/fahim-ipsec/fahim-ipsec/blob/main/coverp.jpg" width="100%" alt="fahim-ipsec cover" style="border-radius: 10px;" />
+  <img src="https://github.com/fahim-ipsec/fahim-ipsec/blob/main/coverp.jpg" width="50px" alt="fahim-ipsec cover" style="border-radius: 5px;" />
   
   <br><br>
 
@@ -41,39 +41,11 @@ Guided by honesty and a firm commitment to helping others, my goal is to grow in
 
 ### 🛡️ Certifications & Skills
 
-```text
-┌── [ Cybersecurity ] ──────────────────────────────────────────────────────┐
-│  Digital Forensics  ·  Log Analysis  ·  Network Security  ·  Incident Response │
-└───────────────────────────────────────────────────────────────────────────┘
-┌── [ Cloud & Infrastructure ] ─────────────────────────────────────────────┐
-│  Cloud Security  ·  Linux Hardening  ·  Virtualization                    │
-└───────────────────────────────────────────────────────────────────────────┘
-┌── [ IT & Networking ] ────────────────────────────────────────────────────┐
-│  Network Protocols  ·  Wireshark Analysis  ·  System Administration       │
-└───────────────────────────────────────────────────────────────────────────┘
 
 ### 🛠️ Tools & Technologies
 
-[Security & Analysis]   Wireshark · Kali Linux · YARA · Autopsy · Nmap
-[Dev & Scripting]       Python · Bash Scripting · Git & GitHub
-[Platforms]             Linux · Windows Server · Proxmox
 
-📂 Projects & Technical Write-ups
-📁 Projects Report
-🩸 Plasma Donation Management System (PDMS) — A software solution built for donor tracking and blood bank management.
 
-✍️ Latest Blog Posts
-📄 Mastering Log Analysis
+### 📂 Projects & Technical Write-ups
 
-📄 Beyond the Pros: How to Use YARA for Personal Cybersecurity on Your PC
 
-🎓 Education & Experience
-Cybersecurity Research & Self-Labs (Present)
-
-Investigating threat vectors, writing YARA rules, and analyzing network telemetry.
-
-Academic Background
-
-Core focus on Computer Science, Networking, and Information Security fundamentals.
-
-📊 Lab Platforms & Cyber Badges
