@@ -3,10 +3,9 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=fahim-ipsec&fontSize=70&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Security%20Investigator&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
   
   
-  <br><br>
+  <br>
 
   <!-- Profile Image & Greeting -->
-  <img src="https://github.com/fahim-ipsec/fahim-ipsec/blob/main/greetingsp.jpg" width="120" height="120" alt="Omar Fahim" style="border-radius: 50%;" />
   
   <h1>Hi, I'm Omar Fahim 👋</h1>
   <h3>Cybersecurity Enthusiast | Security Investigator | Security Researcher</h3>
