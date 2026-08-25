@@ -34,11 +34,11 @@
 
 ### 📝 About Me
 
-I am a **Cybersecurity Enthusiast** and lifelong student dedicated to researching both digital and physical security. My mission is to bridge the gap between complex threats and proactive awareness, ensuring a safer digital world for everyone. Whether I am diving into **Digital Forensics**, **Cloud Security**, or **Software Automation**, I believe in a hands-on approach to mastering tools from **Kali Linux** to **Wireshark**.
+I'm a Cybersecurity Enthusiast and lifelong student with a mission to bridge the gap between complex threats and proactive awareness. I believe in a hands-on approach — mastering tools like Kali Linux and Wireshark through real-world practice in areas like Digital Forensics, Cloud Security, and Software Automation.
 
-Guided by honesty and a firm commitment to helping others, my goal is to grow into a **Cybercrime Analyst** role combining analytical rigor with ethical dedication. I am always open to collaborating with fellow security researchers and enthusiasts!
+Guided by honesty and a deep commitment to helping others, I aim to grow into a Cybercrime Analyst role where I can combine analytical thinking with ethical dedication. I'm always open to collaborating with fellow security researchers and enthusiasts!
 
-> `#CyberSecurity` `#DigitalForensics` `#CyberInvestigation` `#SoftwareAutomation` `#CloudSecurity` `#NetworkSecurity`
+🔐 #CyberSecurity · #DigitalForensics · #CyberInvestigation · #SoftwareAutomation · #CloudSecurity · #NetworkSecurity
 
 ---
 
