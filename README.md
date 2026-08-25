@@ -30,6 +30,54 @@ Beyond the technical skills, I am guided by two firm principles: honesty as my c
 </div>
 
 
+## 👨‍💻 About Me
+
+- 🔬 Currently focused on **SOC Operations**, **Threat Hunting**, and **Penetration Testing**.
+- 🛠️ Building automation tools for network security and analyzing vulnerability exploits.
+- 💻 My portfolio website features a custom interactive cyber terminal UI built with pure HTML/CSS/JS.
+- ⚡ **Fun Fact:** Driven by continuous hands-on lab research and lots of coffee! ☕
+
+---
+
+## 🛠️ Tech Stack & Security Tools
+
+[Security & Blue Team]    Splunk · Elastic SIEM · Wireshark · Sysmon · Snort
+[Pentesting & Red Team]   Nmap · Burp Suite · Metasploit · Kali Linux · YARA
+[Scripting & Dev]         Python · Bash · Git · HTML5 / CSS3 · JavaScript
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=username&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Fahim's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=synthwave&hide_border=true&layout=compact" alt="Top Languages" width="45%" />
+
+</div>
+
+---
+
+## 📜 Featured Certifications
+
+- 🏆 **CompTIA Security+** (SY0-701)
+- 🔒 **Google Cybersecurity Professional**
+- 🌐 **Cisco CCNA Security Essentials**
+
+---
+
+## 📬 Connect With Me
+
+* **Portfolio Site:** [username.github.io](https://username.github.io)
+* **Email:** [fahim.ipsec@example.com](mailto:fahim.ipsec@example.com)
+* **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username)
+* **TryHackMe:** [@fahim-ipsec](https://tryhackme.com/p/fahim-ipsec)
+
+---
+
+<div align="center">
+
+**© 2026 Fahim · fahim-ipsec**
+
+</div>
 <h1>Certifications & Skills</h1>
 <pre><h2>Cybersecurity</h2> 
               --networking
